@@ -8,7 +8,7 @@ All business metrics can be classified in 3 broad categories:
 
 1. **Revenue:** This relates to sales and marketing. These are outward facing, they tell us something about how well or badly the company is selling and marketing its products. The company sales force will want to know how many units of each product was sold over a given time interval, and compare to different intervals. They may want to look at sales by region, product and new/repeat customers. They will want to know sales funnel; potential customers for future sales, where they are, etc. Meanwhile the marketing team will want to know how effective any marketing campaign is, how many people see our ads, what percentage responded, etc. **Everything related directly or indirectly to selling are revenue metrics**
 
-2. **Profitability:** This relates to logistics and operations. These have to do with the efficiency of the processes by which the company delivers the goods. these are operational metrics, sought after people responsible for production, typically led by the chief operating officer. Anything relates to how much unsold inventory, how much production is unsellable (rotten mangoes), how often company is unable to meet requests due to insufficient production, how much spent on variable cost, etc. **Profitability is all about efficiency**
+2. **Profitability:** This relates to logistics and operations. These have to do with the efficiency of the processes by which the company delivers the goods. These are operational metrics, sought after people responsible for production, typically led by the chief operating officer. Anything relates to how much unsold inventory, how much production is unsellable (rotten mangoes), how often company is unable to meet requests due to insufficient production, how much spent on variable cost, etc. **Profitability is all about efficiency**
 
 3. **Risk:** This relates to risk managers and creditors. This has to do with tracking and mitigating dangers. E.g. spending large portion of net cash flow on interest on a debt, a recession would cause this company to collapse. **Net cash out is always the most important metric to track**. How many months can it survive at the present burn rate? Another important metric for risk is churn rate. A company with a subscription based model that has high churn rate (rate at which new subscribers drop off within a year) runs the risk that over time there are fewer targets who have never been customers, and impossible to maintain revenue growth. Other examples of risk metrics involve financial risk. Risk is closely tied to debt.
 
@@ -44,7 +44,7 @@ Enterprise Sales involve personal sales, and have embedded in them traditional s
 
 # Inventory Management
 
-Inventory management is one of the primary ways that operatiunbg companies can reduce cost and maximize profitability without lowering the quality of what they sell. Inventory is typically a finished product waiting to be bought on a shelf (or in a logistics warehouse). The more time it lies around, the less efficient for the manufacturer. Time spent in inventory erodes profits. 4 main reasons inventory time should be minimized:
+Inventory management is one of the primary ways that operating companies can reduce cost and maximize profitability without lowering the quality of what they sell. Inventory is typically a finished product waiting to be bought on a shelf (or in a logistics warehouse). The more time it lies around, the less efficient for the manufacturer. Time spent in inventory erodes profits. 4 main reasons inventory time should be minimized:
 
 1. **Negative float:** A manufacturer suplying a retailer typically doesnt get paid til the item is sold at retail, but the money is already gone. This negative float requires a capital therefore interest. Therefore if a company's interest is not good, it can go out of business.
 
@@ -57,4 +57,10 @@ Inventory management is one of the primary ways that operatiunbg companies can r
 Not many companies are willing to make their days inventory metric public. However here's a handy trick for estimating it for publicly traded companies. Public annual reports include the value of inventory on hand at the end of the year, as well as the total annual cost of goods sold. Inventory on hand is valued using the same accounting methods as using the total annual cost of goods sold. So a very good estimate for average days inventory is:
 
 avg days inventory = $365 \cdot \frac{\text{inventory on hand at the end of the year}}{\text{total annual cost of goods sold}}$
+
+# Risk metrics
+
+Most common sources of business risk seem to stem from excessive leverage. When a company owes more money than it is worth it is not likely to survive. If you're in a business that depends on making loans and you are also leverage, the risk to you when a customer defaults is magnified many times. 
+
+Another type of risk is reputation. E.g. a food product that is tainted. 
 
